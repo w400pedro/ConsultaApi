@@ -1,7 +1,7 @@
 # ConsultaApi
-## Primeira vez fazendo consultas com API's externas através do modulo Axios
+### Primeira vez fazendo consultas com API's externas através do modulo Axios
 
-### Para testar:
+## Para testar:
 #### Descompactar o ZIP em uma pasta local
 
 #### Instalar o node modules indo no terminal do arquivo e digitando npm i 
